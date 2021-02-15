@@ -1,7 +1,7 @@
 # **Customer Segmentation For An E-Commerce Website**
 *Sofia Chevrolat (August 2020)*
 
-> NB: This project is the fourth of a series of seven comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+> NB: This project is the 4th of a series of 7 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 This study in 2 notebooks aims segment Olist's clients by exploiting their anonymized customer database, containing information pertaining to their clients' purchase history, satisfactions and localization since january 2017.
 ___
