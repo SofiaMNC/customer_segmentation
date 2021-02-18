@@ -6,7 +6,7 @@ ___
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.madimedia.pro)
 
-This study in 2 notebooks aims segment Olist's clients by exploiting their anonymized customer database, containing information pertaining to their clients' purchase history, satisfactions and localization since january 2017.
+This study in 2 notebooks aims to segment Olist's clients base by exploiting their anonymized customer database, containing information pertaining to their clients' purchase history, satisfactions and localization since january 2017.
 ___
 
 This study is divided into 2 notebooks: 
